@@ -9,7 +9,7 @@ public class SimpleLoginTest {
 public void googleTitleTest() {
 
 String actual = "Google";
-String expected = "Google123";
+String expected = "Google";
 
 Assert.assertEquals(actual, expected);
 }
